@@ -3,6 +3,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C/C++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+<!--   <img src="https://img.shields.io/badge/Typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=ffffff" /> -->
 </p>
 
