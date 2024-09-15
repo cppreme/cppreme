@@ -1,0 +1,15 @@
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ejay" alt="Solved.ac 프로필" 
+    data-canonical-src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ejay" style="max-width: 100%;">   
+</p>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n3jdywjpepjskybrasbzqr5zw4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n3jdywjpepjskybrasbzqr5zw4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
+<p align="center">
+  <a href='https://github.com/cppreme' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C/C++-100000?style=flat&logo=cplusplus&logoColor=FFFFFF&labelColor=181818&color=181818'/></a>
+  <a href='https://github.com/cppreme' target="_blank"><img alt='java' src='https://github.com/user-attachments/assets/74cbe136-9edc-41a6-9107-c57835f62e96'></a>
+<!--   <a href='https://github.com/cppreme' target="_blank"><img alt='kotlin' src='https://img.shields.io/badge/Kotlin-100000?style=flat&logo=kotlin&logoColor=C711E1&labelColor=181818&color=181818'/></a> -->
+  <a href='https://github.com/cppreme' target="_blank"><img alt='springboot' src='https://img.shields.io/badge/Spring_Boot-100000?style=flat&logo=springboot&logoColor=6DB33F&labelColor=181818&color=181818'/></a>
+</p>
