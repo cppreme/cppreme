@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href='https://github.com/cppreme' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C/C++-100000?style=flat&logo=cplusplus&logoColor=000000&labelColor=ffffff&color=ffffff'/></a>
-  <a href='https://github.com/cppreme' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=000000&labelColor=ffffff&color=ffffff'/></a>
+<!--   <a href='https://github.com/cppreme' target="_blank"><img alt='python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=000000&labelColor=ffffff&color=ffffff'/></a> -->
   <a href='https://github.com/cppreme' target="_blank"><img alt='ubuntu' src='https://img.shields.io/badge/Ubuntu-100000?style=flat&logo=ubuntu&logoColor=000000&labelColor=ffffff&color=ffffff'/></a>
 <!--   <a href='https://github.com/cppreme' target="_blank"><img alt='java' src='https://github.com/user-attachments/assets/f2c401c4-1f7b-4100-8592-62cfcef6e78c'></a> -->
 <!--   <a href='https://github.com/cppreme' target="_blank"><img alt='kotlin' src='https://img.shields.io/badge/Kotlin-100000?style=flat&logo=kotlin&logoColor=C711E1&labelColor=181818&color=181818'/></a> -->
