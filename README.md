@@ -12,8 +12,8 @@
   <a href='https://github.com/phytoncideman' target="_blank"><img alt='go' src='https://img.shields.io/badge/Go-100000?style=flat&logo=go&logoColor=ffffff&labelColor=000000&color=000000'/></a>
 <!--   <a href='https://github.com/phytoncideman' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=flat&logo=typescript&logoColor=ffffff&labelColor=000000&color=000000'/></a> -->
   <a href='https://github.com/cppreme' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Linux-100000.svg?style=flat&logo=linux&logoColor=ffffff&labelColor=000000&color=000000'/></a>
-  <a href='https://github.com/cppreme' target="_blank"><img alt='kafka' src='https://img.shields.io/badge/Kafka-100000.svg?style=flat&logo=apache-kafka&logoColor=ffffff&labelColor=000000&color=000000'/></a>
-  <a href='https://github.com/cppreme' target="_blank"><img alt='jenkins' src='https://img.shields.io/badge/Jenkins-100000.svg?style=flat&logo=jenkins&logoColor=ffffff&labelColor=000000&color=000000'/></a>
+<!--   <a href='https://github.com/cppreme' target="_blank"><img alt='kafka' src='https://img.shields.io/badge/Kafka-100000.svg?style=flat&logo=apache-kafka&logoColor=ffffff&labelColor=000000&color=000000'/></a> -->
+<!--   <a href='https://github.com/cppreme' target="_blank"><img alt='jenkins' src='https://img.shields.io/badge/Jenkins-100000.svg?style=flat&logo=jenkins&logoColor=ffffff&labelColor=000000&color=000000'/></a> -->
   <a href='https://github.com/cppreme' target="_blank"><img alt='k8s' src='https://img.shields.io/badge/Kubernetes-100000.svg?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=000000&color=000000'/></a>
   
 <!--   <a href='https://github.com/phytoncideman' target="_blank"><img alt='python' src='https://img.shields.io/badge/Go-100000?style=flat&logo=go&logoColor=000000&labelColor=ffffff&color=ffffff'/></a> -->
