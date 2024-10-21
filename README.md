@@ -23,9 +23,7 @@
 <p align="center">
   <a href='https://github.com/cppreme' target="_blank"><img alt='prometheus' src='https://img.shields.io/badge/Prometheus-100000.svg?style=flat&logo=prometheus&logoColor=ffffff&labelColor=000000&color=000000'/></a>
   <a href='https://github.com/cppreme' target="_blank"><img alt='grafana' src='https://img.shields.io/badge/Grafana-100000.svg?style=flat&logo=grafana&logoColor=ffffff&labelColor=000000&color=000000'/></a>
-  <a href='https://github.com/cppreme' target="_blank"><img alt='elasticsearch' src='https://img.shields.io/badge/Elasticsearch-100000.svg?style=flat&logo=elasticsearch&logoColor=ffffff&labelColor=000000&color=000000'/></a>
-  <a href='https://github.com/cppreme' target="_blank"><img alt='logstash' src='https://img.shields.io/badge/Logstash-100000.svg?style=flat&logo=logstash&logoColor=ffffff&labelColor=000000&color=000000'/></a>
-  <a href='https://github.com/cppreme' target="_blank"><img alt='kibana' src='https://img.shields.io/badge/Kibana-100000.svg?style=flat&logo=kibana&logoColor=ffffff&labelColor=000000&color=000000'/></a>
+  <a href='https://github.com/cppreme' target="_blank"><img alt='ELK' src='https://img.shields.io/badge/ELK-100000.svg?style=flat&logo=elastic&logoColor=ffffff&labelColor=000000&color=000000'/></a>
   
 </p>
   
