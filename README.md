@@ -19,10 +19,10 @@
 </p>
 <p align="center">
     <a href='https://github.com/cppreme' target="_blank"><img alt='docker' src='https://img.shields.io/badge/Docker-100000.svg?style=flat&logo=docker&logoColor=ffffff&labelColor=000000&color=000000'/></a>
-  <a href='https://github.com/cppreme' target="_blank"><img alt='k8s' src='https://img.shields.io/badge/Kubernetes-100000.svg?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=000000&color=000000'/></a>
+<!--   <a href='https://github.com/cppreme' target="_blank"><img alt='k8s' src='https://img.shields.io/badge/Kubernetes-100000.svg?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=000000&color=000000'/></a>
   <a href='https://github.com/cppreme' target="_blank"><img alt='prometheus' src='https://img.shields.io/badge/Prometheus-100000.svg?style=flat&logo=prometheus&logoColor=ffffff&labelColor=000000&color=000000'/></a>
   <a href='https://github.com/cppreme' target="_blank"><img alt='grafana' src='https://img.shields.io/badge/Grafana-100000.svg?style=flat&logo=grafana&logoColor=ffffff&labelColor=000000&color=000000'/></a>
-  
+   -->
   
 </p>
   
